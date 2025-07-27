@@ -9,15 +9,3 @@
 /Users/yarendogan/Downloads/file-genx-main/src/DistributedFileStorage.Core/obj/Debug/net8.0/refint/DistributedFileStorage.Core.dll
 /Users/yarendogan/Downloads/file-genx-main/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.pdb
 /Users/yarendogan/Downloads/file-genx-main/src/DistributedFileStorage.Core/obj/Debug/net8.0/ref/DistributedFileStorage.Core.dll
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/bin/Debug/net8.0/DistributedFileStorage.Core.deps.json
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/bin/Debug/net8.0/DistributedFileStorage.Core.dll
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/bin/Debug/net8.0/DistributedFileStorage.Core.pdb
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.GeneratedMSBuildEditorConfig.editorconfig
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.AssemblyInfoInputs.cache
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.AssemblyInfo.cs
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.csproj.CoreCompileInputs.cache
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.sourcelink.json
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.dll
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/refint/DistributedFileStorage.Core.dll
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/DistributedFileStorage.Core.pdb
-/Users/yarendogan/proje/DistrubestedStorage/src/DistributedFileStorage.Core/obj/Debug/net8.0/ref/DistributedFileStorage.Core.dll
