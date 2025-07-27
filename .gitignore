@@ -1,0 +1,85 @@
+## Build artifacts
+bin/
+obj/
+out/
+[Ll]og/
+*.log
+
+## Rider
+.idea/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+**/packages.config
+*.nuspec
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## dotCover
+*.dotCover
+
+## TFS
+$tf/
+
+## Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+*.mdb
+
+## Others
+*.vspscc
+*.vssscc
+*.dbmdl
+*.psess
+*.vsp
+*.psess
+*.vspx
+*.scc
+
+## Mac files
+.DS_Store
+
+## Logs
+*.log
+*.tlog
+
+## Publish
+publish/
+
+## Test Results
+TestResults/
+
+## Global JSON
+global.json.user
+
+## Coverage results
+coverage/
+coverage*.json
+*.lcov
+*.coverage
+*.coveragexml
